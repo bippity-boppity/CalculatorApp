@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B499AFE9-26C0-4056-8704-FA56F1A02E42}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CalculatorWebApp FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CalculatorWebService PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorWebService/Controllers/CalculatorController.cs">
+    <Files>
+      <File FileName="CalculatorWebService/Controllers/CalculatorController.cs" Line="1" Column="21" />
+      <File FileName="CalculatorLibrary/SimpleCalculator/SimpleCalculator.cs" Line="1" Column="14" />
+      <File FileName="CalculatorWebService/appsettings.json" Line="1" Column="1" />
+      <File FileName="CalculatorWebService/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalculatorTest" expanded="True">
+            <Node name="CalculatorLibrary" expanded="True">
+              <Node name="SimpleCalculator" expanded="True" />
+            </Node>
+            <Node name="CalculatorWebService" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

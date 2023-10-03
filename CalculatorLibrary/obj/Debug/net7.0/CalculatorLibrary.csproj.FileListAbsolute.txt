@@ -1,0 +1,12 @@
+/Users/adamhails/Projects/CalculatorTest/CalculatorLibrary/bin/Debug/net7.0/CalculatorLibrary.deps.json
+/Users/adamhails/Projects/CalculatorTest/CalculatorLibrary/bin/Debug/net7.0/CalculatorLibrary.dll
+/Users/adamhails/Projects/CalculatorTest/CalculatorLibrary/bin/Debug/net7.0/CalculatorLibrary.pdb
+/Users/adamhails/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.csproj.AssemblyReference.cache
+/Users/adamhails/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamhails/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.AssemblyInfoInputs.cache
+/Users/adamhails/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.AssemblyInfo.cs
+/Users/adamhails/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.csproj.CoreCompileInputs.cache
+/Users/adamhails/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.dll
+/Users/adamhails/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/refint/CalculatorLibrary.dll
+/Users/adamhails/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.pdb
+/Users/adamhails/Projects/CalculatorTest/CalculatorLibrary/obj/Debug/net7.0/ref/CalculatorLibrary.dll
